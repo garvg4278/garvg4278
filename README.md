@@ -98,7 +98,7 @@ I'm a Computer Science Engineering student at Chandigarh University, building sk
 
 - Automating system tasks with advanced Bash scripting.  
 - Building a CI/CD pipeline to deploy a containerized app on Kubernetes.  
-- Creating interactive dashboards in Power BI.  
+- Creating interactive dashboards in Power BI  
 
 ###
 
